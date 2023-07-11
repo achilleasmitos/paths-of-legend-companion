@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.98989803.js",
-    "static/js/787.a3da30a3.chunk.js": "/static/js/787.a3da30a3.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.98989803.js.map": "/static/js/main.98989803.js.map",
-    "787.a3da30a3.chunk.js.map": "/static/js/787.a3da30a3.chunk.js.map"
+    "main.css": "/paths-of-legend-companion/static/css/main.0e9eac04.css",
+    "main.js": "/paths-of-legend-companion/static/js/main.1b2b93af.js",
+    "index.html": "/paths-of-legend-companion/index.html",
+    "main.0e9eac04.css.map": "/paths-of-legend-companion/static/css/main.0e9eac04.css.map",
+    "main.1b2b93af.js.map": "/paths-of-legend-companion/static/js/main.1b2b93af.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.98989803.js"
+    "static/css/main.0e9eac04.css",
+    "static/js/main.1b2b93af.js"
   ]
 }
