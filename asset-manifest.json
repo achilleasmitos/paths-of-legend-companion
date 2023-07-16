@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/paths-of-legend-companion/static/css/main.0e9eac04.css",
-    "main.js": "/paths-of-legend-companion/static/js/main.1b2b93af.js",
+    "main.css": "/paths-of-legend-companion/static/css/main.93e7ed03.css",
+    "main.js": "/paths-of-legend-companion/static/js/main.24c3e412.js",
     "index.html": "/paths-of-legend-companion/index.html",
-    "main.0e9eac04.css.map": "/paths-of-legend-companion/static/css/main.0e9eac04.css.map",
-    "main.1b2b93af.js.map": "/paths-of-legend-companion/static/js/main.1b2b93af.js.map"
+    "main.93e7ed03.css.map": "/paths-of-legend-companion/static/css/main.93e7ed03.css.map",
+    "main.24c3e412.js.map": "/paths-of-legend-companion/static/js/main.24c3e412.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e9eac04.css",
-    "static/js/main.1b2b93af.js"
+    "static/css/main.93e7ed03.css",
+    "static/js/main.24c3e412.js"
   ]
 }
