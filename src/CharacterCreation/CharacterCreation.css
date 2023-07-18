@@ -1,0 +1,31 @@
+.character-creation-main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	min-height: 100vh;
+}
+
+.character-creation-main .header {
+	display: flex;
+	justify-content: space-between;
+
+	min-width: calc(100% - 20px);
+}
+
+.character-creation-main .header .left-section .back-button {
+	display: flex;
+	align-items: center;
+}
+
+.character-creation-main .header .left-section,
+.character-creation-main .header .right-section {
+	display: flex;
+	flex: 0 1 33%;
+}
+
+.character-creation-main .header .middle-section {
+	display: flex;
+	justify-content: center;
+	flex: 1 0 auto;
+}

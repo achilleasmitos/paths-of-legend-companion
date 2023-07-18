@@ -1,6 +1,7 @@
 * {
-  font-family: 'Book Antiqua';
+  font-family: "Book Antiqua";
   color: white;
+  background-color: #282c34;
   box-sizing: border-box;
 }
 
@@ -9,8 +10,6 @@ p {
 }
 
 .App {
-  text-align: center;
-  background-color: #282c34;
   min-height: 100vh;
 }
 
@@ -29,4 +28,21 @@ p {
 .App-header h2 {
   font-size: 35px;
   margin-top: 0;
+}
+
+.sub-title {
+  text-align: center;
+}
+
+li * {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+li *:visited {
+  color: purple;
+}
+
+li *:hover {
+  color: magenta;
 }
